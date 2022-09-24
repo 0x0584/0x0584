@@ -19,7 +19,7 @@
  * *(C, libc)* [`libft`](https://github.com/0x0584/libft) C library built from scratch
  * *(C, libc)* [`ft_printf`](https://github.com/0x0584/ft_printf)  clone of `printf(3)` with accurate floating numbers support
  * *(C, unix)* [`ft_ls`](https://github.com/0x0584/ft_ls) clone of unix's `ls(1)`
- * *(C, VM, asm)* [`Corewar`](https://github.com/0x0584/corewar) A virtual Machine loading Binaries made with buildin Assembler
+ * *(C, VM, asm)* [`Corewar`](https://github.com/0x0584/corewar) A Virtual Machine loading Binaries made with buildin Assembler
  * *(Python, API)* [`crawler`](https://github.com/0x0584/crawler) Website crawler using Flask 
 
 #### Technologies

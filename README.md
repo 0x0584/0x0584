@@ -28,5 +28,5 @@
  *  *(Shell)* [`init`](]https://github.com/0x0584/init) Commonly used command argumenta combinations
  
  #### Graphics
- * *(Maps, Projection)* [`fdf`](https://github.com/0x0584/fdf) Render projections of a map based on coordinates of its vertices (with [@yzemmour](htpps://www.github.com/yzemmour)) 
+ * *(Maps, Projection)* [`fdf`](https://github.com/0x0584/fdf) Render projections of a map based on coordinates of its vertices (with [@yzemmour](https://www.github.com/yzemmour)) 
 

@@ -3,7 +3,7 @@
 > Welcome to my little world, where I keep all my source code (mostly!)
 
 #### Algorithmic
- * *(Graphs, MaxClique, Multithreaded)* [`mc`](https://github.com/0x0584/mc) finding a Max Clique in arbitrary Graphs (fast) 
+ * *(Graphs, MaxClique, Multithreaded)* **ongoing** [`mc`](https://github.com/0x0584/mc) finding a Max Clique in arbitrary Graphs (fast) 
  * *(Graphs, Dijkstra Shortest Path)* [`dijkstra`](https://github.com/0x0584/dijkstra) Single Source Shortest Path in an Undirected Weighted Graph
  * *(Graphs, Connected Components, PageRank, Shortest Path)* [`graph-algos`](https://github.com/0x0584/graph-algos) collection of typical Graph problems
  * *(Graphs, MaxFlow Problem)* [`Lem-in`](https://github.com/0x0584/Lem-in) solving Ant Farm traffic through any given Graph, optimally

@@ -1,0 +1,3 @@
+#+BEGIN_QUOTE
+  /What one programmer can do in one month, two programmers may do in two months/
+#+END_QUOTE
